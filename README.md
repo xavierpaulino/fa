@@ -1,2 +1,2 @@
 # fa
-Federated Analytics Projects for 5G networks
+Integration of Federated Analytics and 5G Networks
